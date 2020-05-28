@@ -7,6 +7,7 @@ Bid 24x7 is an auctioning platform developed in python, and GUI is implemented w
 - [Features](#features)
 - [Installation](#installation)
 - [Working](#working)
+- [Contributions](#contributions)
 
 
 ## Introduction
